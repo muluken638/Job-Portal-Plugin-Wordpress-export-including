@@ -1,0 +1,38 @@
+/* Admin-specific styles for Miller Job Portal */
+.mj-admin-container {
+    margin: 20px;
+}
+
+.mj-admin-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.mj-admin-container .form-table th {
+    width: 200px;
+}
+
+.mj-admin-container .form-table input,
+.mj-admin-container .form-table select {
+    width: 100%;
+    max-width: 400px;
+}
+
+.mj-admin-container .button-primary {
+    background: #0073aa;
+    border-color: #006799;
+}
+
+.mj-admin-container .wp-list-table {
+    margin-top: 20px;
+}
+
+.mj-admin-container .wp-list-table th,
+.mj-admin-container .wp-list-table td {
+    padding: 10px;
+}
+
+.mj-admin-container .wp-list-table th {
+    background: #f9f9f9;
+    font-weight: bold;
+}

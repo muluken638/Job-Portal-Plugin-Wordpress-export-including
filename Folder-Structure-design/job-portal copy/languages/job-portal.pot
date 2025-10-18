@@ -1,0 +1,360 @@
+# Translation template for Miller Job Portal
+msgid ""
+msgstr ""
+"Project-Id-Version: Miller Job Portal 1.0.0\n"
+"POT-Creation-Date: 2025-10-18 23:53+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Your Name <your.email@example.com>\n"
+"Language-Team: Your Team <team@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual\n"
+
+#: includes/class-job-post-types.php
+msgid "Jobs"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Job"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Add New Job"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Edit Job"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "New Job"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "View Job"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Search Jobs"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Applicants"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Applicant"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Add New Applicant"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Edit Applicant"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "New Applicant"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "View Applicant"
+msgstr ""
+
+#: includes/class-job-post-types.php
+msgid "Search Applicants"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Job Categories"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Job Category"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Search Job Categories"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "All Job Categories"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Edit Job Category"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Update Job Category"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Add New Job Category"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Job Types"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Job Type"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Search Job Types"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "All Job Types"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Edit Job Type"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Update Job Type"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Add New Job Type"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Job Locations"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Job Location"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Search Job Locations"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "All Job Locations"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Edit Job Location"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Update Job Location"
+msgstr ""
+
+#: includes/class-job-taxonomies.php
+msgid "Add New Job Location"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Miller Job Portal"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "MJ Jobs"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Applicants"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Export Applicants"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Date From"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Date To"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Gender"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "All"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Male"
+msgstr ""
+
+#: includes/admin/admin-menu.php
+msgid "Female"
+msgstr ""
+
+#: includes/admin/admin-jobs.php
+msgid "Job Details"
+msgstr ""
+
+#: includes/admin/admin-jobs.php
+msgid "Salary Range"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Applicant Details"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Full Name"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Age"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Birth Place"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Current Address"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Level of Education"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Telephone"
+msgstr ""
+
+#: includes/admin/admin-applicants.php
+msgid "Select Gender"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Add New Job"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Job Title"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Job Description"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Job Category"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Select Category"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Job Type"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Select Type"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Job Location"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Select Location"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Submit Job"
+msgstr ""
+
+#: public/templates/job-add-form.php
+msgid "Job added successfully!"
+msgstr ""
+
+#: public/templates/job-view.php
+msgid "Available Jobs"
+msgstr ""
+
+#: public/templates/job-view.php
+msgid "No jobs found."
+msgstr ""
+
+#: public/templates/job-view.php
+msgid "Category"
+msgstr ""
+
+#: public/templates/job-view.php
+msgid "Type"
+msgstr ""
+
+#: public/templates/job-view.php
+msgid "Location"
+msgstr ""
+
+#: public/templates/job-view.php
+msgid "Salary"
+msgstr ""
+
+#: public/templates/applicants-view.php
+msgid "View Applicants"
+msgstr ""
+
+#: public/templates/applicants-view.php
+msgid "You do not have permission to view this page."
+msgstr ""
+
+#: public/templates/applicants-view.php
+msgid "Filter Applicants"
+msgstr ""
+
+#: public/templates/applicants-view.php
+msgid "Name"
+msgstr ""
+
+#: public/templates/applicants-view.php
+msgid "Applied Job"
+msgstr ""
+
+#: public/templates/applicants-view.php
+msgid "Application Date"
+msgstr ""
+
+#: public/templates/applicants-view.php
+msgid "No applicants found."
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Region"
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Select Region"
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Zone"
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Select Zone"
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Wereda"
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Select Wereda"
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Kebele"
+msgstr ""
+
+#: public/templates/address-fields.php
+msgid "Select Kebele"
+msgstr ""
